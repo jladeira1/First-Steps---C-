@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|d:\\cursos\\c#\\c# - projetos\\first steps - c#\\hello world\\hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|solutionrelative:hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|d:\\cursos\\c#\\c# - projetos\\first steps - c#\\hello world\\hello world\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|solutionrelative:hello world\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|d:\\cursos\\c#\\c# - projetos\\first steps - c#\\hello world\\hello world\\hello world.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|solutionrelative:hello world\\hello world.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|d:\\cursos\\c#\\c# - projetos\\first steps - c#\\hello world\\hello world\\teste\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B184820-6275-A5EF-FD6D-4833FB2F9D46}|Hello World\\Hello World.csproj|solutionrelative:hello world\\teste\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Teste\\Class1.cs",
+              "RelativeDocumentMoniker": "Hello World\\Teste\\Class1.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Teste\\Class1.cs",
+              "RelativeToolTip": "Hello World\\Teste\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:36:01.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hello World",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Hello World.csproj",
+              "RelativeDocumentMoniker": "Hello World\\Hello World.csproj",
+              "ToolTip": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Hello World.csproj",
+              "RelativeToolTip": "Hello World\\Hello World.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-05T16:07:51.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Carro.cs",
+              "RelativeDocumentMoniker": "Hello World\\Carro.cs",
+              "ToolTip": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Carro.cs",
+              "RelativeToolTip": "Hello World\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T16:09:12.848Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Hello World\\Program.cs",
               "ToolTip": "D:\\Cursos\\C#\\C# - Projetos\\First Steps - C#\\Hello World\\Hello World\\Program.cs",
               "RelativeToolTip": "Hello World\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T15:15:09.988Z",
               "EditorCaption": ""
